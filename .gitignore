@@ -1,0 +1,11 @@
+__pycache__/
+.space/
+Spacefile
+db/secret_const
+/routers/basic_users.py
+/routers/basic_auth_user.py
+/routers/usersdb.py
+/routers/usersdb_mod.py
+/routers/jwt_auth_user.py
+/routers/productsdb.py
+Discovery.md
